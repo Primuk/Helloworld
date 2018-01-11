@@ -1,5 +1,3 @@
 # Helloworld
-Just another repository
-Hi, I am Primula Here. A computer science B.Tech student.
-Just a beginner here.
-Thank you for reading this.
+Hi, I am new to gitHub. 
+This was my first repository created here.
